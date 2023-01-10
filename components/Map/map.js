@@ -4,7 +4,6 @@ import 'leaflet-defaulticon-compatibility';
 import 'leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.css';
 import style from "../../styles/Home.module.css";
 import { MapContainer, TileLayer, Marker, Popup, Polyline, CircleMarker } from 'react-leaflet';
-import { getLeadingCommentRanges } from 'typescript';
 
 
 export default function Map(){
